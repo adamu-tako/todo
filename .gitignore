@@ -31,10 +31,6 @@ migrate_working_dir/
 .pub/
 /build/
 
-
-# firbase
-/lib/firbase_options.dart
-
 # Symbolication related
 app.*.symbols
 
